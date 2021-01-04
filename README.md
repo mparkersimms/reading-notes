@@ -22,3 +22,4 @@ ___
 
 #### References
 You can find the reference used for this topic [here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+You can find more of my work on my [Github](https://github.com/mparkersimms)
