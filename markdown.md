@@ -20,5 +20,5 @@
 
 ~strikethrough~
 
-
+[This is how you do a link](markdown.md)
 
