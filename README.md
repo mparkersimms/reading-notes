@@ -19,3 +19,6 @@ Ny name is Matthew. I'm currently transitioning out of the U.S.Army into the civ
     - Perserverence
     - Constructive Criticism
     - Inspiration
+
+#### References
+You can find the reference used for this topic at (https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
