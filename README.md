@@ -21,4 +21,4 @@ Ny name is Matthew. I'm currently transitioning out of the U.S.Army into the civ
     - Inspiration
 
 #### References
-You can find the reference used for this topic at (https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+You can find the reference used for this topic [here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
