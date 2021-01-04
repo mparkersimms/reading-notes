@@ -14,7 +14,7 @@ Ny name is Matthew. I'm currently transitioning out of the U.S.Army into the civ
 * A fixed mindset may also see the success of others as a challenge to their own ability and become defensive and apprehensive to those individuals for their success. 
 * Thus a growth mindset helps foster a learning environment, as well as a cohesive community and group of fellow learners.  
 1. *Key words for a growth mindset*
-  - Embrace Challenges
-  - Perserverence
-  - Constructive Criticism
-  - Inspiration
+    - Embrace Challenges
+    - Perserverence
+    - Constructive Criticism
+    - Inspiration
