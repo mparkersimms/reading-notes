@@ -20,6 +20,9 @@ ___
     - Constructive Criticism
     - Inspiration
 
+### Image of a beautiful guitar
+![Martin D-28](https://c1.zzounds.com/media/productmedia/fit,600by800/quality,85/1_Full_Straight_Front_42867-23f128af975f02581d7872b73290e7c2.jpg)
+
 #### References
 You can find the reference used for this topic [here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
