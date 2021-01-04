@@ -17,6 +17,7 @@
 #### Different formating
 
 *Italicized words*
+
 ~strikethrough~
 
 
