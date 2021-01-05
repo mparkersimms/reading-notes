@@ -117,6 +117,23 @@ Reference
  * mkdir 
    * makes a folder
    
+ * cp 
+   * copy 
+   * requires two arguments 
+   * the first is what you are copying 
+   * the second is what you want to name the copy as 
+   
+ * mv 
+   * move a file 
+   * two purposes 
+     * *moves* and also *renames* a file
+   * takes two arguments 
+     * the first being what you want to move, 
+     * and the second is where you want to put it, and what you want to name it
+   
+ * rm 
+   * remove file 
+   
  ### Paths
  * a path is a means to get to a particular file or directory on the system
  
