@@ -19,4 +19,7 @@
 ### Distributed Version Control System (DVCS)
 * addresses major vulnerability of the CVS (the server as a single point of failure) 
   * if a CVS goes down, noone can do any work
-  * with the absense 
+    * with the absense of backups, all the work will be lost
+* allows clients to create mirrored repositories
+  * can be placed on the server to replace any lost information
+  * allows various simultaneous workflows
