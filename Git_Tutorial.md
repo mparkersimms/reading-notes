@@ -50,7 +50,8 @@
   * $ git clone https://github.com/test -- etc.. 
 
 ### Workflow
-  #### Local REpository Structure
+
+#### Local REpository Structure
   * three components 
     * Working directory
       * where the actual files lives
@@ -97,6 +98,7 @@
     * 'git stash apply' to retrieve hidden changes
 
 ### Remote Repositories 
+
 #### cloned repositories
   * git will automatically give the name "origin" to the server from which you cloned and the name "master" to your local branch
 
@@ -123,5 +125,6 @@
   * git remote rm [name] 
 
 ### Undoing Actions
+
 #### Commit mistakes
   * 'git commit --amend'
