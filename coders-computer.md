@@ -4,7 +4,7 @@ Reference
 ["Choosing a Text Editor"](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf) by The Older Coder
 
 ["Linux tutorial"](https://ryanstutorials.net/linuxtutorial/commandline.php) by Ryan Chadwick
-
+ 
 #### Table of Contents
 * [Growth Mindset](Growth-Mindset.md)
 * [Markdown](markdown.md)
