@@ -60,7 +60,7 @@ Reference
 * IDE (Integrated Development Environment) 
   * a text editor, a file manager, a compiler, and debugger all in one
     
-## The Command Line
+## Linux Tutorial - The command Line
 * Text based interface to the system
 * use commands and line arguements aka *options*, outputs, error messages, prompts 
 
@@ -69,4 +69,23 @@ Reference
   * Applications -> Utilities -> Terminal 
   * command + space
     * search "Terminal"
-* 
+
+### The Shell, Bash
+* Part of the operating system that defines how the terminal will behave and look after running commands
+* most common shell is "Bash" 
+  * Stands for *"Bourne again shell"*
+* command "echo $SHELL" will display the type of shell you are using 
+  * **echo is a command used to display messages**
+
+## Linux Tutorial - Navigation
+* pwd
+  * stand for *Print Working Directory*
+  * tells you what your current or present working directory is " where you are" 
+  
+* ls
+  * short for "list" 
+  * tells you what's there
+  * ls [option][location]
+  
+  
+
