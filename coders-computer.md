@@ -1,5 +1,9 @@
 # Notes on a Coders Computer
-Reference ["Choosing a Text Editor"](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf) by The Older Coder
+Reference 
+
+["Choosing a Text Editor"](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf) by The Older Coder
+
+[Linux tutorial - The Command Line"](https://ryanstutorials.net/linuxtutorial/commandline.php) by Ryan Chadwick
 
 ## What is a text editor
 * a piece of software to allow you to write and manage text
@@ -56,4 +60,13 @@ Reference ["Choosing a Text Editor"](https://codefellows.github.io/code-102-guid
 * IDE (Integrated Development Environment) 
   * a text editor, a file manager, a compiler, and debugger all in one
     
+## The Command Line
+* Text based interface to the system
+* use commands and line arguements aka *options*, outputs, error messages, prompts 
 
+### Opening a Terminal
+* MAC
+  * Applications -> Utilities -> Terminal 
+  * command + space
+    * search "Terminal"
+* 
