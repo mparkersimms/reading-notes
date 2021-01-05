@@ -123,5 +123,5 @@
   * git remote rm [name] 
 
 ### Undoing Actions
-  #### Commit mistakes
+#### Commit mistakes
   * 'git commit --amend'
