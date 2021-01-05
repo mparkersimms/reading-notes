@@ -181,6 +181,8 @@ Reference
    * removing the (.) will un-hide the file
    * using (-a) as a command line option will show hidden files eg. ( ls -a) will show all hidden files in the list that omiting the (-a) would otherwise not. 
    
+  * *testing how it works*
+
   
   
 
