@@ -111,6 +111,12 @@ Reference
  * **can combine (-l) and (/etc)** 
    * will tell the command to make a long list of the /etc
    
+* touch
+   * make a file
+   
+ * mkdir 
+   * makes a folder
+   
  ### Paths
  * a path is a means to get to a particular file or directory on the system
  
