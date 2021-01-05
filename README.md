@@ -30,3 +30,4 @@ You can find the reference used for this topic [here](https://www.atlassian.com/
 #### Table of Contents
 * [Markdown](markdown.md)
 * [Coders Computer](coders-computer.md)
+* [Git_Tutorial](Git_Tutorial.md)
