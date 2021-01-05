@@ -78,14 +78,86 @@ Reference
   * **echo is a command used to display messages**
 
 ## Linux Tutorial - Navigation
+
+### Where are we?
 * pwd
   * stand for *Print Working Directory*
   * tells you what your current or present working directory is " where you are" 
-  
+
+### What's there?
 * ls
   * short for "list" 
   * tells you what's there
   * ls [option][location]
+    * inside [] is optional 
+      * may run the command with or without them 
+ * -l 
+   * *command line option*
+   * (optional as stated above)
+   * means "long list"
+   * gives more information to the list such as 
+     * whether the file is a normal file (-) or directory (d) 
+     * permissions for the file or directory
+     * the owner of the directory
+     * group the file or directory belongs to 
+     * file size
+     * modification time
+     * actual name
+ * /etc
+   * *command line argument* 
+   * (optional)
+   * tells the command to *not* list the current directory but instead to list the directories contents
+ 
+ * **can combine (-l) and (/etc)** 
+   * will tell the command to make a long list of the /etc
+   
+ ### Paths
+ * a path is a means to get to a particular file or directory on the system
+ 
+ #### Absolute and Relative Paths
+ * The very top of the structure is called the **root** directory
+   * denoted by a single slash (/) 
+   * has subdirectories that also have subdirectories.. etc. 
+ 
+ * absolute paths specify a location in relation to the **root directory** and *always* start with a forward slash (/) 
+ * relative paths specify a location in relation to where we currently are in the system
+   * do not begin with a slash
+   
+ * ~ (tilde) 
+   * shortcut for home directory
+   * if home directory is (/home/matt) then you could refer to the directory (Documents) with /home/matt/Documents or ~/Documents
+ * . (dot) 
+   * reference to your current directory
+ * .. (dotdot) 
+   * reference to parent directory
+   * used to cascade up the hierarchy
+   
+ * cd [location] 
+   * stands for *change directory* 
+   * with no arguments it always takes you back to your home directory
+   
+ * tab completion 
+   * shortcut used to fill in possible paths with whats been typed already 
+   * hitting **tab** at anytime on your keyboard will invoke an autocomplete action
+     * if nothing happens, there are several possibilites
+     * hitting **tab** again will show you all the possibilities 
+       * continue typing and hit **tab** again and it will complete the autocomplete function
+       
+ ## Linux Tutorial - More about Files 
+ * **Everything is a file**
+ * Extensions
+   * .exe - an executable file 
+   * .txt - a plain text file
+   * .png, .gif, .jpg - an image
+ * Linux is case sensitive, other operating systems are case insensitive
+ * spaces between words count as separate files, 
+   * use quotations to include multiple words as one file eg. (" Matts Photos") 
+   * you can also use \ as an **escape character** such as (Matts\ Photos) 
+   * *using the Tab Completion function will work to escape any spaces as well*
+ * use a .(period or full stop) at the beginning of a file to make it *hidden* 
+   * removing the (.) will un-hide the file
+   * using (-a) as a command line option will show hidden files eg. ( ls -a) will show all hidden files in the list that omiting the (-a) would otherwise not. 
+   
   
   
 
