@@ -5,6 +5,12 @@ Reference
 
 ["Linux tutorial"](https://ryanstutorials.net/linuxtutorial/commandline.php) by Ryan Chadwick
 
+#### Table of Contents
+* [Growth Mindset](Growth-Mindset.md)
+* [Markdown](markdown.md)
+* [Home Page](README.md)
+* [Git-Tutorial](Git_Tutorial.md)
+
 ## What is a text editor
 * a piece of software to allow you to write and manage text
 * designed especially for text used to build a website
@@ -134,10 +140,10 @@ Reference
  * rm 
    * remove file 
    
- ### Paths
+### Paths
  * a path is a means to get to a particular file or directory on the system
  
- #### Absolute and Relative Paths
+#### Absolute and Relative Paths
  * The very top of the structure is called the **root** directory
    * denoted by a single slash (/) 
    * has subdirectories that also have subdirectories.. etc. 
@@ -166,7 +172,7 @@ Reference
      * hitting **tab** again will show you all the possibilities 
        * continue typing and hit **tab** again and it will complete the autocomplete function
        
- ## Linux Tutorial - More about Files 
+## Linux Tutorial - More about Files 
  * **Everything is a file**
  * Extensions
    * .exe - an executable file 
@@ -183,6 +189,6 @@ Reference
    
   * *testing how it works*
 
-  
+
   
 

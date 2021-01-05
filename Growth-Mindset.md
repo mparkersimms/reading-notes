@@ -1,6 +1,13 @@
 
 
 ### Growth Mindset
+
+#### Table of Contents
+* [Git Tutorial](Git_Tutorial.md)
+* [Markdown](markdown.md)
+* [Coders Computer](coders-computer.md)
+* [Home Page](README.md)
+
 * Having a growth mindset in comparison to a fixed mindset is crucial to *improve*, *grow*, and *learn*, in an educational setting. 
 * Being able to overcome obstacles, embrace challenges and remain inspired by the success of others are all key elements to a growth mindset. 
 * On the contrary, in the same setting a fixed mindset will find obstacles to be disheartening and will stunt growth. 

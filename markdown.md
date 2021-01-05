@@ -1,3 +1,9 @@
+
+#### Table of Contents
+* [Growth Mindset](Growth-Mindset.md)
+* [Home Page](README.md)
+* [Coders Computer](coders-computer.md)
+* [Git-Tutorial](Git_Tutorial.md)
 # This is an H1
 ## This is an H2
 ### This is an H3
