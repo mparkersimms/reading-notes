@@ -11,7 +11,7 @@ Ny name is Matthew. I'm currently transitioning out of the U.S.Army into the civ
 #### Table of Contents
 * [Markdown](markdown.md)
 * [Coders Computer](coders-computer.md)
-* [Git_Tutorial](Git_Tutorial.md)
+* [Git-Tutorial](Git_Tutorial.md)
 
 
 ### Growth Mindset
