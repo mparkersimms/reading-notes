@@ -1,10 +1,11 @@
 
 #### Table of Contents
+* [README](README.md)
 * [Growth Mindset](Growth-Mindset.md)
-* [Home Page](README.md)
+* [Markdown](markdown.md)
 * [Coders Computer](coders-computer.md)
 * [Git-Tutorial](Git_Tutorial.md)
-
+* [Structure web pages](Structure_webpages.md)
 
 # This is an H1
 ## This is an H2
