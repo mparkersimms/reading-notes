@@ -1,6 +1,6 @@
 # Structure Webpages with HTML
 
-# HTML5
+# Process & Design
 
 references: 
 Chapter 18, HTML & CSS by Duckett
