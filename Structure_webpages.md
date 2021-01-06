@@ -180,40 +180,40 @@ Chapter 17, HTML & CSS by Duckett
 HTML5 introduces a new set of elements that allow you to divide the parts of a page and eliminates many "div" elements
 
 ## Headers and Footers
-&ltheader> &lt/header>
-&ltfooter>&lt/footer>
+&lt;header> &lt;/header>
+&lt;footer>&lt;/footer>
 appear on the top and the bottom of a web page or possibly even an <article> or <section>
 
 ## Navigation
-<nav>
+&lt;nav>
 
 Used to contain the major navigational blocks on the site such as the primary site navigation
 
 ## Articles
-&ltarticle>
+&lt;article>
 
 - acts as a container for any section of a page that could *stand alone* or be syndicated
 - an independent piece of content
 
 ## Asides
-&ltaside>
+&lt;aside>
 has two purposes
-    - inside an <article>
+    - inside an &lt;article>
         - should contain information that is related to the article but not essential to its overall meaning
-    - outside of an <article>
+    - outside of an &lt;article>
         - acts as a container that is related to the entire page
 
 ## Sections
-&ltsection>
+&lt;section>
 groups related content together and typically has its own heading
-    - may have one or many <article> elements in them 
+    - may have one or many &lt;article> elements in them 
 
 ## Heading Groups
-&lthgroup>
-purpose is to group together a specific set of &lth1> through &lth6> elements 
+&lt;hgroup>
+purpose is to group together a specific set of &lt;h1> through &lt;h6> elements 
 
 ## Figures
-&ltfigure> &ltfigcaption>
+&lt;figure> &lt;figcaption>
 can be used to contain any content that is referenced from the main flow of an article (not just images)
 used for something that only references content not something that is integral to the flow of the page
 examples:
@@ -223,16 +223,16 @@ examples:
 - diagrams
 - code samples
 - text that supports the main body of an article
-should also contain <figcaption> which provides a description of what is in the <figure> element
+should also contain &lt;figcaption> which provides a description of what is in the &lt;figure> element
 
 ## Sectioning Elements 
-<div> 
-When there is no other wrapper for a specific set of elements use the <div> still 
+&lt;div> 
+When there is no other wrapper for a specific set of elements use the &lt;div> still 
 example would be to contain all the information on a page
-*everyting that is not contained inside a <header> <footer> or <aside> is considered as the main content
+*everyting that is not contained inside a &lt;header> &lt;footer> or &lt;aside> is considered as the main content
 
 ## Linking Around Block-Level Elements 
-HTML5 allows you to place a <a> element around a block level element that contains child elements and makes the entire block a link
+HTML5 allows you to place a &lt;a> element around a block level element that contains child elements and makes the entire block a link
 
 
 
