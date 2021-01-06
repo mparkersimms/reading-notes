@@ -336,7 +336,7 @@ indicates when the page should expire and no longer be cached
 
 ## Escape Characters
 
-- &lt; Less than sign = &lt;
+- &lt; Less than sign = &lt;lt:
 - &gt; Greater than sign = &amp;gt;
 - &amp; Ampersand = &amp;amp;
 - " Quotation marks = &amp;quot;
