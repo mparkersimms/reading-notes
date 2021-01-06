@@ -180,21 +180,23 @@ Chapter 17, HTML & CSS by Duckett
 HTML5 introduces a new set of elements that allow you to divide the parts of a page and eliminates many "div" elements
 
 ## Headers and Footers
-<header> </header>
-<footer></footer>
+&ltheader> &lt/header>
+&ltfooter>&lt/footer>
 appear on the top and the bottom of a web page or possibly even an <article> or <section>
 
 ## Navigation
 <nav>
+
 Used to contain the major navigational blocks on the site such as the primary site navigation
 
 ## Articles
-<article>
-acts as a container for any section of a page that could *stand alone* or be syndicated
-    -an independent piece of content
+&ltarticle>
+
+- acts as a container for any section of a page that could *stand alone* or be syndicated
+- an independent piece of content
 
 ## Asides
-<aside>
+&ltaside>
 has two purposes
     - inside an <article>
         - should contain information that is related to the article but not essential to its overall meaning
@@ -202,16 +204,16 @@ has two purposes
         - acts as a container that is related to the entire page
 
 ## Sections
-<section>
+&ltsection>
 groups related content together and typically has its own heading
     - may have one or many <article> elements in them 
 
 ## Heading Groups
-<hgroup>
-purpose is to group together a specific set of <h1> through <h6> elements 
+&lthgroup>
+purpose is to group together a specific set of &lth1> through &lth6> elements 
 
 ## Figures
-<figure> <figcaption>
+&ltfigure> &ltfigcaption>
 can be used to contain any content that is referenced from the main flow of an article (not just images)
 used for something that only references content not something that is integral to the flow of the page
 examples:
