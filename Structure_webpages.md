@@ -182,7 +182,7 @@ HTML5 introduces a new set of elements that allow you to divide the parts of a p
 ## Headers and Footers
 &lt;header> &lt;/header>
 &lt;footer>&lt;/footer>
-appear on the top and the bottom of a web page or possibly even an <article> or <section>
+appear on the top and the bottom of a web page or possibly even an &lt;article> or &lt;section>
 
 ## Navigation
 &lt;nav>
@@ -242,54 +242,54 @@ Reference:
 Chapter 8, HTML & CSS by Duckett
 
 ## Doctypes 
-<!DOCTYPE html> 
+&lt;!DOCTYPE html> 
 becuase of several versions of HTML created every webpage needs to start with a DOCTYPE to determine what language the webpage is written in 
 
 ## Comments in HTML
-<!-- --> 
-<!-- comments go here -->
+&lt;!-- --> 
+&lt;!-- comments go here -->
 will not display on the webpage unless the user is viewing the source code 
 used to explain certain things in the code, or to assist in explaining what is going on in the code. 
 
 ## ID Attribute
-<p id="uniqueattribute">
-should only start with a *letter* or an *underscore* nothing else and should be have a unique id. 
+&lt;p id="uniqueattribute">
 
+- should only start with a *letter* or an *underscore* nothing else and should be have a unique id. 
 - nothing else on that page should have the same id, it would then not be unique
 - allows that unique group to be formatted using CSS differently than everything else on the page
 - also called a **global attribute** becuase it can be used on any element
 
 ## Class Attribute
-<p class="somethingdescriptive">
+&lt;p class="somethingdescriptive">
 its a way to uniquely identify a group of elements the same way
-separate names with a space to indicate that a particual element has more than one class attribute eg <p class="somethingdescriptive somethingelse">
+separate names with a space to indicate that a particual element has more than one class attribute eg &lt;p class="somethingdescriptive somethingelse">
 
 ## Block Elements 
 elements that appear to always start on a new line in a browser window
 examples are : 
-- <h1>
-- <p>
-- <ul>
-- <li>
+- &lt;h1>
+- &lt;p>
+- &lt;ul>
+- &lt;li>
 
 ## Inline Elements 
 elements that always appear to contine on the same line as their neighboring elements 
 examples are :
-- <a>
-- <b>
-- <em>
-- <img>
+- &lt;a>
+- &lt;b>
+- &lt;em>
+- &lt;img>
 
 ## Grouping Text & Elements in a Block
-<div> 
+&lt;div> 
 allows you to group a set of elements together in one block-level box
 
 ## Grouping Text & Elements Inline
-<span> 
-acts like the inline equivalent to the <div> element
+&lt;span> 
+acts like the inline equivalent to the &lt;div> element
 
 ## Iframes
-<iframe> "inline frame"
+&lt;iframe> "inline frame"
 a window cut into your page and in that window you can see another page
 
 - **src** --> specifies the URL of the page to show in the frame
@@ -303,8 +303,8 @@ a window cut into your page and in that window you can see another page
 - **seamless** --> used where scrollbars are not desired, does not need a value
 
 ## Information About Your Pages
-<meta> 
-lives inside the <head> element and contains information about the webpage
+&lt;meta> 
+lives inside the &lt;head> element and contains information about the webpage
 - not visible to the user but contains a number of usefull purposes such as telling search engines about your page who created it, and whether or not it is time sensitive
 
 #### descriptions
@@ -336,7 +336,7 @@ indicates when the page should expire and no longer be cached
 
 ## Escape Characters
 
-- < Less than sign = &lt;
+- &lt; Less than sign = &lt;
 - > Greater than sign = &gt;
 - & Ampersand = &amp;
 - " Quotation marks = &quot;
