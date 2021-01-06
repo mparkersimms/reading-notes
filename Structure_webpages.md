@@ -8,10 +8,10 @@
 * [Git-Tutorial](Git_Tutorial.md)
 * [Structure web pages](Structure_webpages.md)
 
-# Process & Design
+# Process &amp; Design
 
 references: 
-Chapter 18, HTML & CSS by Duckett
+Chapter 18, HTML &amp; CSS by Duckett
 
 ## Who is the site for?
 ### Target Audience
@@ -174,46 +174,46 @@ Keep primary navigation exactly the same page to page
 # HTML5 Layout
 
 reference
-Chapter 17, HTML & CSS by Duckett
+Chapter 17, HTML &amp; CSS by Duckett
 
 ## New HTML5 Layout Elements 
 HTML5 introduces a new set of elements that allow you to divide the parts of a page and eliminates many "div" elements
 
 ## Headers and Footers
-&lt;header> &lt;/header>
-&lt;footer>&lt;/footer>
-appear on the top and the bottom of a web page or possibly even an &lt;article> or &lt;section>
+&amp;lt;header> &amp;lt;/header>
+&amp;lt;footer>&amp;lt;/footer>
+appear on the top and the bottom of a web page or possibly even an &amp;lt;article> or &amp;lt;section>
 
 ## Navigation
-&lt;nav>
+&amp;lt;nav>
 
 Used to contain the major navigational blocks on the site such as the primary site navigation
 
 ## Articles
-&lt;article>
+&amp;lt;article>
 
 - acts as a container for any section of a page that could *stand alone* or be syndicated
 - an independent piece of content
 
 ## Asides
-&lt;aside>
+&amp;lt;aside>
 has two purposes
-    - inside an &lt;article>
+    - inside an &amp;lt;article>
         - should contain information that is related to the article but not essential to its overall meaning
-    - outside of an &lt;article>
+    - outside of an &amp;lt;article>
         - acts as a container that is related to the entire page
 
 ## Sections
-&lt;section>
+&amp;lt;section>
 groups related content together and typically has its own heading
-    - may have one or many &lt;article> elements in them 
+    - may have one or many &amp;lt;article> elements in them 
 
 ## Heading Groups
-&lt;hgroup>
-purpose is to group together a specific set of &lt;h1> through &lt;h6> elements 
+&amp;lt;hgroup>
+purpose is to group together a specific set of &amp;lt;h1> through &amp;lt;h6> elements 
 
 ## Figures
-&lt;figure> &lt;figcaption>
+&amp;lt;figure> &amp;lt;figcaption>
 can be used to contain any content that is referenced from the main flow of an article (not just images)
 used for something that only references content not something that is integral to the flow of the page
 examples:
@@ -223,36 +223,36 @@ examples:
 - diagrams
 - code samples
 - text that supports the main body of an article
-should also contain &lt;figcaption> which provides a description of what is in the &lt;figure> element
+should also contain &amp;lt;figcaption> which provides a description of what is in the &amp;lt;figure> element
 
 ## Sectioning Elements 
-&lt;div> 
-When there is no other wrapper for a specific set of elements use the &lt;div> still 
+&amp;lt;div> 
+When there is no other wrapper for a specific set of elements use the &amp;lt;div> still 
 example would be to contain all the information on a page
-*everyting that is not contained inside a &lt;header> &lt;footer> or &lt;aside> is considered as the main content
+*everyting that is not contained inside a &amp;lt;header> &amp;lt;footer> or &amp;lt;aside> is considered as the main content
 
 ## Linking Around Block-Level Elements 
-HTML5 allows you to place a &lt;a> element around a block level element that contains child elements and makes the entire block a link
+HTML5 allows you to place a &amp;lt;a> element around a block level element that contains child elements and makes the entire block a link
 
 
 
 
 # Extra Markup
 Reference:
-Chapter 8, HTML & CSS by Duckett
+Chapter 8, HTML &amp; CSS by Duckett
 
 ## Doctypes 
-&lt;!DOCTYPE html> 
+&amp;lt;!DOCTYPE html> 
 becuase of several versions of HTML created every webpage needs to start with a DOCTYPE to determine what language the webpage is written in 
 
 ## Comments in HTML
-&lt;!-- --> 
-&lt;!-- comments go here -->
+&amp;lt;!-- --> 
+&amp;lt;!-- comments go here -->
 will not display on the webpage unless the user is viewing the source code 
 used to explain certain things in the code, or to assist in explaining what is going on in the code. 
 
 ## ID Attribute
-&lt;p id="uniqueattribute">
+&amp;lt;p id="uniqueattribute">
 
 - should only start with a *letter* or an *underscore* nothing else and should be have a unique id. 
 - nothing else on that page should have the same id, it would then not be unique
@@ -260,36 +260,36 @@ used to explain certain things in the code, or to assist in explaining what is g
 - also called a **global attribute** becuase it can be used on any element
 
 ## Class Attribute
-&lt;p class="somethingdescriptive">
+&amp;lt;p class="somethingdescriptive">
 its a way to uniquely identify a group of elements the same way
-separate names with a space to indicate that a particual element has more than one class attribute eg &lt;p class="somethingdescriptive somethingelse">
+separate names with a space to indicate that a particual element has more than one class attribute eg &amp;lt;p class="somethingdescriptive somethingelse">
 
 ## Block Elements 
 elements that appear to always start on a new line in a browser window
 examples are : 
-- &lt;h1>
-- &lt;p>
-- &lt;ul>
-- &lt;li>
+- &amp;lt;h1>
+- &amp;lt;p>
+- &amp;lt;ul>
+- &amp;lt;li>
 
 ## Inline Elements 
 elements that always appear to contine on the same line as their neighboring elements 
 examples are :
-- &lt;a>
-- &lt;b>
-- &lt;em>
-- &lt;img>
+- &amp;lt;a>
+- &amp;lt;b>
+- &amp;lt;em>
+- &amp;lt;img>
 
-## Grouping Text & Elements in a Block
-&lt;div> 
+## Grouping Text &amp; Elements in a Block
+&amp;lt;div> 
 allows you to group a set of elements together in one block-level box
 
-## Grouping Text & Elements Inline
-&lt;span> 
-acts like the inline equivalent to the &lt;div> element
+## Grouping Text &amp; Elements Inline
+&amp;lt;span> 
+acts like the inline equivalent to the &amp;lt;div> element
 
 ## Iframes
-&lt;iframe> "inline frame"
+&amp;lt;iframe> "inline frame"
 a window cut into your page and in that window you can see another page
 
 - **src** --> specifies the URL of the page to show in the frame
@@ -303,8 +303,8 @@ a window cut into your page and in that window you can see another page
 - **seamless** --> used where scrollbars are not desired, does not need a value
 
 ## Information About Your Pages
-&lt;meta> 
-lives inside the &lt;head> element and contains information about the webpage
+&amp;lt;meta> 
+lives inside the &amp;lt;head> element and contains information about the webpage
 - not visible to the user but contains a number of usefull purposes such as telling search engines about your page who created it, and whether or not it is time sensitive
 
 #### descriptions
@@ -336,20 +336,20 @@ indicates when the page should expire and no longer be cached
 
 ## Escape Characters
 
-- &lt; Less than sign = &lt;
-- > Greater than sign = &gt;
-- & Ampersand = &amp;
-- " Quotation marks = &quot;
-- cent sign = &cent;
-- Pound sign = &pound;
-- Yen sign = &yen;
-- Euro sign = &euro;
-- Copyright symbol = &copy;
-- Registered trademark = &reg;
-- Trademark = &trade;
-- left single quote = &lsquo;
-- right single quote = &rsquo;
-- left double quote = &ldquo;
-- right double quote = &rdquo;
-- multiplication sign = &times;
-- division sign = &divide;
+- &amp;lt; Less than sign = &amp;lt;
+- > Greater than sign = &amp;gt;
+- &amp; Ampersand = &amp;amp;
+- " Quotation marks = &amp;quot;
+- cent sign = &amp;cent;
+- Pound sign = &amp;pound;
+- Yen sign = &amp;yen;
+- Euro sign = &amp;euro;
+- Copyright symbol = &amp;copy;
+- Registered trademark = &amp;reg;
+- Trademark = &amp;trade;
+- left single quote = &amp;lsquo;
+- right single quote = &amp;rsquo;
+- left double quote = &amp;ldquo;
+- right double quote = &amp;rdquo;
+- multiplication sign = &amp;times;
+- division sign = &amp;divide;
