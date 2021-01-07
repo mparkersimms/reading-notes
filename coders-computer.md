@@ -8,6 +8,7 @@
 * [Git-Tutorial](Git_Tutorial.md)
 * [Structure web pages](Structure_webpages.md)
 * [CSS](CSS.md)
+* [Dynamic Web pages](DynamicJavascript.md)
 
 
 Reference 

@@ -16,6 +16,7 @@ Ny name is Matthew. I'm currently transitioning out of the U.S.Army into the civ
 * [Git-Tutorial](Git_Tutorial.md)
 * [Structure web pages](Structure_webpages.md)
 * [CSS](CSS.md)
+* [Dynamic Web pages](DynamicJavascript.md)
 
   
 
