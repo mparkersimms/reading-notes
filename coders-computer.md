@@ -1,10 +1,5 @@
 # Notes on a Coders Computer
-Reference 
 
-["Choosing a Text Editor"](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf) by The Older Coder
-
-["Linux tutorial"](https://ryanstutorials.net/linuxtutorial/commandline.php) by Ryan Chadwick
- 
 #### Table of Contents
 * [README](README.md)
 * [Growth Mindset](Growth-Mindset.md)
@@ -12,6 +7,14 @@ Reference
 * [Coders Computer](coders-computer.md)
 * [Git-Tutorial](Git_Tutorial.md)
 * [Structure web pages](Structure_webpages.md)
+* [CSS](CSS.md)
+
+
+Reference 
+
+["Choosing a Text Editor"](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf) by The Older Coder
+
+["Linux tutorial"](https://ryanstutorials.net/linuxtutorial/commandline.php) by Ryan Chadwick
  
 ## What is a text editor
 * a piece of software to allow you to write and manage text

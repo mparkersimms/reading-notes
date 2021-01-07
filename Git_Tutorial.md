@@ -1,5 +1,4 @@
 # Notes on Git Tutorial
-* reference [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/) by Jenni Choi
 
 #### Table of Contents
 * [README](README.md)
@@ -8,6 +7,10 @@
 * [Coders Computer](coders-computer.md)
 * [Git-Tutorial](Git_Tutorial.md)
 * [Structure web pages](Structure_webpages.md)
+* [CSS](CSS.md)
+
+* reference [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/) by Jenni Choi
+
 
 ## Version Control 
 * *Version Control system (VCS)*
