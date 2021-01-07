@@ -8,6 +8,7 @@
 * [Structure web pages](Structure_webpages.md)
 * [CSS](CSS.md)
 * [Dynamic Web pages](DynamicJavascript.md)
+* [Computer Architecture](ComputerArch.md)
 
 # This is an H1
 ## This is an H2

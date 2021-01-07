@@ -9,6 +9,7 @@
 * [Structure web pages](Structure_webpages.md)
 * [CSS](CSS.md)
 * [Dynamic Web pages](DynamicJavascript.md)
+* [Computer Architecture](ComputerArch.md)
 
 Reference:  
 Pages 43-69 in Javascript & JQuery by Duckett  

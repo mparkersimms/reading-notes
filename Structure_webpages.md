@@ -9,6 +9,7 @@
 * [Structure web pages](Structure_webpages.md)
 * [CSS](CSS.md)
 * [Dynamic Web pages](DynamicJavascript.md)
+* [Computer Architecture](ComputerArch.md)
 
 # Process &amp; Design
 
