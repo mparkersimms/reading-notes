@@ -11,8 +11,8 @@ Matthew Simms
 * [CSS](CSS.md)
 * [Dynamic Web pages](DynamicJavascript.md)
 * [Computer Architecture](ComputerArch.md)
-* [Operators and Loops](OperatorsLoop.md)
-* [Intro to Javascript](IntroJavascript.md)
+* [Operators and Loops](OperatorsLoops.md)
+* [Intro to Javascript](Introjavascript.md)
 
 ## Description
 This is a collection of my readings for Code Fellows
