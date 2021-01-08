@@ -2,16 +2,8 @@
 
 ### Growth Mindset
 
-#### Table of Contents
+#### Back to README Home Page
 * [README](README.md)
-* [Growth Mindset](Growth-Mindset.md)
-* [Markdown](markdown.md)
-* [Coders Computer](coders-computer.md)
-* [Git-Tutorial](Git_Tutorial.md)
-* [Structure web pages](Structure_webpages.md)
-* [CSS](CSS.md)
-* [Dynamic Web pages](DynamicJavascript.md)
-* [Computer Architecture](ComputerArch.md)
 
 * Having a growth mindset in comparison to a fixed mindset is crucial to *improve*, *grow*, and *learn*, in an educational setting. 
 * Being able to overcome obstacles, embrace challenges and remain inspired by the success of others are all key elements to a growth mindset. 

@@ -1,15 +1,7 @@
 # Structure Webpages with HTML
 
-#### Table of Contents
+#### Back to README Home Page
 * [README](README.md)
-* [Growth Mindset](Growth-Mindset.md)
-* [Markdown](markdown.md)
-* [Coders Computer](coders-computer.md)
-* [Git-Tutorial](Git_Tutorial.md)
-* [Structure web pages](Structure_webpages.md)
-* [CSS](CSS.md)
-* [Dynamic Web pages](DynamicJavascript.md)
-* [Computer Architecture](ComputerArch.md)
 
 # Process &amp; Design
 

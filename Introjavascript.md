@@ -1,6 +1,7 @@
 # Intro to JavaScript
 
-Back to the [README](README.md) page
+#### Back to README Home Page
+* [README](README.md)
 
 References   
 Page 1-24, 74-79, 88-94 "JavaSript & JQuery" by Ducket
