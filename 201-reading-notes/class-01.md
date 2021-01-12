@@ -1,5 +1,5 @@
 # Class 01
-## [Home Page](README2.md)
+## [Home Page](../README.md)
 
 #### References:  
 
