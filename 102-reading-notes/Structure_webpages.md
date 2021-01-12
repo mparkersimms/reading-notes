@@ -1,7 +1,7 @@
 # Structure Webpages with HTML
 
 #### Back to README Home Page
-* [README](README.md)
+* [README](../README.md)
 
 # Process &amp; Design
 

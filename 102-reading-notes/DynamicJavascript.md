@@ -1,7 +1,7 @@
 # Dynamic webpages with Javascript
 
 #### Back to README Home Page
-* [README](README.md)
+* [README](../README.md)
 
 Reference:  
 Pages 43-69 in Javascript & JQuery by Duckett  

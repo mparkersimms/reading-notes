@@ -3,7 +3,7 @@
 ### Growth Mindset
 
 #### Back to README Home Page
-* [README](README.md)
+* [README](../README.md)
 
 * Having a growth mindset in comparison to a fixed mindset is crucial to *improve*, *grow*, and *learn*, in an educational setting. 
 * Being able to overcome obstacles, embrace challenges and remain inspired by the success of others are all key elements to a growth mindset. 

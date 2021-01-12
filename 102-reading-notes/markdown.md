@@ -1,6 +1,6 @@
 
 #### Back to README Home Page
-* [README](README.md)
+* [README](../README.md)
 
 # This is an H1
 ## This is an H2

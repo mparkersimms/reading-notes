@@ -1,7 +1,7 @@
 # Notes on a Coders Computer
 
 #### Back to README Home Page
-* [README](README.md)
+* [README](../README.md)
 
 
 Reference 

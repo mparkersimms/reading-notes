@@ -1,7 +1,7 @@
 # Notes on Git Tutorial
 
 #### Back to README Home Page
-* [README](README.md)
+* [README](../README.md)
 
 * reference [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/) by Jenni Choi
 

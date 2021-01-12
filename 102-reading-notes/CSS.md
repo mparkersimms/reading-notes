@@ -1,7 +1,7 @@
 # Intro to CSS
 
 #### Back to README Home Page
-* [README](README.md)
+* [README](../README.md)
 
 Reference  
 Chapter 10, HTML & CSS by Duckett

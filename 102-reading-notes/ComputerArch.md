@@ -1,6 +1,6 @@
 
 #### Back to README Home Page
-* [README](README.md)
+* [README](../README.md)
 
 
 ## What makes a computer a computer
