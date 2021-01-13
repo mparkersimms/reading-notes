@@ -9,6 +9,8 @@ HTML book by Duckett
 
 JavaScript book by Duckett
 - Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
+
+
 - Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
 
 ### Text

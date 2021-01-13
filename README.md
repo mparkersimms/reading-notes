@@ -17,7 +17,7 @@ Matthew Simms
 - Code 201
     1. [Class 01](/201-reading-notes/class-01.md)
     1. [Class 02](/201-reading-notes/class-02.md)
-    1. [Default Title](Changethiswhenthetimecomes)
+    1. [Class 03](/201-reading-notes/class-03.md)
     1. [Default Title](Changethiswhenthetimecomes)
     1. [Default Title](Changethiswhenthetimecomes)
     1. [Default Title](Changethiswhenthetimecomes)
