@@ -20,7 +20,7 @@ Matthew Simms
     1. [Class 03](/201-reading-notes/class-03.md)
     1. [Class 04](/201-reading-notes/class-04.md)
     1. [class 05](/201-reading-notes/class-05.md)
-    1. [Default Title](Changethiswhenthetimecomes)
+    1. [class 06](/201-reading-notes/class-06.md)
     1. [Default Title](Changethiswhenthetimecomes)
     1. [Default Title](Changethiswhenthetimecomes)
     1. [Default Title](Changethiswhenthetimecomes)
