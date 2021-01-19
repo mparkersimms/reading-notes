@@ -168,5 +168,5 @@ JS book by Duckett
     - `hasAttribute()`--> checks if element node has a specified attribute
     - `setAttribute()`--> sets the value of an attribute
     - `removeAttribute()`--> removes an attribute from an element node
-    -
+
 
