@@ -1,4 +1,4 @@
-# Class 13 
+# Class 14 
 ## [Home Page](../README.md)
 
 #### References:
@@ -7,7 +7,15 @@ https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-t
 
 https://learn.shayhowe.com/advanced-html-css/css-transforms/
 
+http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users
 
+https://codepen.io/retyui/pen/ByoaXV
+
+https://codepen.io/akshaychauhan/pen/oAfae
+
+https://codepen.io/kieranfivestars/pen/MYdQxX
+
+https://codepen.io/dp_lewis/pen/gCfBv
 
 # What google has learned about its quest to build the perfect team
 
