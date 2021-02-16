@@ -32,8 +32,8 @@ Matthew Simms
     
 
 - Code 301 
-    1. [Default Title](Changethiswhenthetimecomes)
-    1. [Default Title](Changethiswhenthetimecomes)
+    1. [Class 01](/Code_301_-_Intermediate_Software_Development/Class-01.md)
+    1. [Class 02](/Code_301_-_Intermediate_Software_Development/Class-02.md)
 
 ## Description
 This is a collection of my readings for Code Fellows
