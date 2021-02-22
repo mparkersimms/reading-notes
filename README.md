@@ -37,6 +37,7 @@ Matthew Simms
     1. [Class 03](/Code_301_-_Intermediate_Software_Development/Class-03.md)
     1. [Class 04](/Code_301_-_Intermediate_Software_Development/Class-04.md)
     1. [Class 05](/Code_301_-_Intermediate_Software_Development/Class-05.md)
+    1. [Class 06](/Code_301_-_Intermediate_Software_Development/Class-06.md)
 
 ## Description
 This is a collection of my readings for Code Fellows
