@@ -39,7 +39,8 @@ Matthew Simms
     1. [Class 05](/Code_301_-_Intermediate_Software_Development/Class-05.md)
     1. [Class 06](/Code_301_-_Intermediate_Software_Development/Class-06.md)
     1. [Class 07](/Code_301_-_Intermediate_Software_Development/Class-07.md)
-     1. [Class 08](/Code_301_-_Intermediate_Software_Development/Class-08.md)
+    1. [Class 08](/Code_301_-_Intermediate_Software_Development/Class-08.md)
+    1. [Class 09](/Code_301_-_Intermediate_Software_Development/Class-09.md)
 
 ## Description
 This is a collection of my readings for Code Fellows
@@ -47,8 +48,4 @@ This is a collection of my readings for Code Fellows
 ### About Me
 Ny name is Matthew. I'm currently transitioning out of the U.S.Army into the civilian workforce and using CodeFellows to gain the knowledge required to enter the tech industry. You can find more of my work on my [Github](https://github.com/mparkersimms)
 
-
-
-
-  
 
