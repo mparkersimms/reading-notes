@@ -50,7 +50,7 @@ response.render('index', [
     { name: 'jerry'}
 ]);
 ```
-Then on the index.ejs file and getting rid of the text, and add a <ul><li></li></ul>
+Then on the index.ejs file and getting rid of the text, and add a `<ul><li></li></ul>`
 apply the <% for(var person of peopel){ %>
 <% } %>
 
