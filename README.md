@@ -48,6 +48,7 @@ Matthew Simms
 
 - Code 401
     1. [Class 1](Code_401_-_Advanced_Software_Development/Class-01.md)
+    1. [Class 2](Code_401_-_Advanced_Software_Development/Class-02.md)
 
 ## Description
 This is a collection of my readings for Code Fellows
