@@ -62,6 +62,7 @@ Matthew Simms
     1. [Class 13](Code_401_-_Advanced_Software_Development/Class-13.md)
     1. [Class 26](Code_401_-_Advanced_Software_Development/Class-26.md)
     1. [Class 27](Code_401_-_Advanced_Software_Development/Class-27.md)
+    1. [Class 28](Code_401_-_Advanced_Software_Development/Class-28.md)
 
 ## Description
 This is a collection of my readings for Code Fellows
